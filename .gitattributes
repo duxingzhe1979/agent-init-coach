@@ -1,0 +1,5 @@
+# 统一换行，避免跨平台（Windows / macOS / Linux）分发时出现格式噪音
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
