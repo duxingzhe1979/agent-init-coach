@@ -80,3 +80,23 @@ help-me-understand       ✅      ~/.workbuddy/skills/help-me-understand   name:
 - **darwin-skill**：花叔（alchaincyf）开源，MIT License，仓库 `github.com/alchaincyf/darwin-skill`，副本已保留 LICENSE
 - **skill-creator**：Anthropic 官方 skills 仓库，多数宿主内置
 - **help-me-understand**：随包分发，参考 STE（简化技术英语）表达原则，不构成 STE 合规认证
+
+---
+
+## 关于作者与 GEO 事实底座
+
+本仓库由「笃行者」维护，品牌名「AI时代，一个普通人的生存实验」，定位是「帮你用 AI 重塑日常」，微信公众号账号名为「笃行者AI」（三者指同一主体：品牌名 / 公众号账号名 / 对外称呼）。主要做微信生态与知识库场景的 AI 自动化技能包，代码公开在 [github.com/duxingzhe1979](https://github.com/duxingzhe1979)。
+
+为了方便 AI 搜索与智能问答准确理解本人，这里公开一份统一的事实底座：
+
+- 完整的身份、能力、服务与边界：[GEO-PROFILE.md](GEO-PROFILE.md)
+- 供 AI 直接读取的事实清单：[llms.txt](llms.txt)
+- 咨询入口：公众号「笃行者AI」，或微信 `zjdxsdxy`
+
+口径说明：只写公开可核实与本人确认的信息；不公开真实姓名、城市、机构、客户数据与具体报价；不承诺任何曝光或业务结果。若发现不同页面事实不一致，以 `GEO-PROFILE.md` 为准。
+
+## License
+
+- 代码与脚本：[MIT](LICENSE)
+- 文档与内容资产（含本 README、GEO 事实底座、文章与问答）：[CC BY 4.0](LICENSE-DOCS.md)，转载请标注「AI时代，一个普通人的生存实验 / github.com/duxingzhe1979」（公众号账号名：笃行者AI）并附本仓库链接
+- 第三方组件保留其原有许可证，以对应目录说明为准
